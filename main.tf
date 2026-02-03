@@ -2,7 +2,7 @@ resource "aws_s3_bucket" "website_bucket" {
 
 
 
-  bucket = "shambhavi-static-site-2026"
+  bucket = "shambhavi-static-site-2026-show-gitops"
 
 
 
