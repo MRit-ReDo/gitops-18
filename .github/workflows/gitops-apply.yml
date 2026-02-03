@@ -13,7 +13,10 @@ on:
 
 
 jobs:
-
+  - name: Debug files
+  run: |
+    pwd
+    ls -la
   terraform:
 
     runs-on: ubuntu-latest
