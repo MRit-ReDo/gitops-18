@@ -2,7 +2,7 @@ resource "aws_s3_bucket" "website_bucket" {
 
 
 
-  bucket = "shambhavi-gitops"
+  bucket = "shambhavi-gitops-shambhavi-0904"
 
 
 
